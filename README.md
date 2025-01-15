@@ -1,1 +1,0 @@
-# aws_project_React_Symfony
